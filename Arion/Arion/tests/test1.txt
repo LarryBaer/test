@@ -1,0 +1,4 @@
+﻿log(heyyyy)
+if(2 = 5){
+    log(yo)
+}

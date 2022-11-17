@@ -1,0 +1,15 @@
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\bin\Debug\net6.0\Arion.exe
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\bin\Debug\net6.0\Arion.deps.json
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\bin\Debug\net6.0\Arion.runtimeconfig.json
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\bin\Debug\net6.0\Arion.dll
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\bin\Debug\net6.0\Arion.pdb
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.csproj.AssemblyReference.cache
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.AssemblyInfoInputs.cache
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.AssemblyInfo.cs
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.csproj.CoreCompileInputs.cache
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.dll
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\refint\Arion.dll
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.pdb
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\Arion.genruntimeconfig.cache
+C:\Users\lbaer\OneDrive\Desktop\Arion\Arion\obj\Debug\net6.0\ref\Arion.dll
